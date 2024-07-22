@@ -1,16 +1,17 @@
-# mybook_library
+# flutter-library-app
+A cross-platform mobile application built with Flutter for managing a personal book library.
 
-A new Flutter project.
+# Features
+* **Add, Edit, Delete, and View Books:** Easily manage your book collection.
+* **Rate Books:** Rate your books to keep track of your favorites.
+* **Mark Books as Read or Unread:** Organize your reading progress.
+* **Search Functionality:** Quickly find books in your collection.
+* **Sorting and Filtering Options:** Sort and filter books to customize your view.
+* **Theme Switching:** Switch between light and dark modes for a better user experience.
 
-## Getting Started
+# Technology Stack
+* **Flutter:** For building the cross-platform mobile application.
+* **SQLite:** Local data storage using the sqflite package.
+* **Provider:** State management.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
